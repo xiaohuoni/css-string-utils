@@ -1,0 +1,23 @@
+{
+  "name": "css-string-utils",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "stylis": "^4.3.1"
+  },
+  "devDependencies": {
+    "@types/stylis": "^4.2.0",
+    "typescript": "^5.3.3"
+  }
+}
